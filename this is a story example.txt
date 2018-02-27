@@ -1,1 +1,2 @@
-this is a story example 
+This is a story example. 
+Now I am adding a change to the story. 
